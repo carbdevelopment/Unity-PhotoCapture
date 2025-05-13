@@ -11,9 +11,9 @@ Simple in-game photo capture system for Unity. Take, preview, and save screensho
 
 ## Setup
 1. Add PhotoCapture script to any GameObject
-2. Assign required references in Inspector (acording to Canvas pregab):
+2. Assign required references in Inspector (acording to Canvas prefab, included into file):
    - Main Camera 
-   - Photo Preview (PhotoFrameBG)
+   - Photo Preview (PhotoCapture)
    - Photo UI (canvas)
    - Flash Effect (GameObject)
    - Camera Sound (AudioSource)
